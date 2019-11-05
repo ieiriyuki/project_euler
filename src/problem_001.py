@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+
 def main():
     answer = 0
     for i in range(1000):
@@ -13,4 +14,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
